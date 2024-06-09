@@ -92,3 +92,5 @@ export BAT_THEME="Nord"
 
 [[ -f ~/.config/tabtab/zsh/__tabtab.zsh ]] && . ~/.config/tabtab/zsh/__tabtab.zsh || true
 
+
+eval $(thefuck --alias)
